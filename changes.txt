@@ -1,3 +1,11 @@
+Version 8.0.0
+- TOC interface version updated for game version 8.0.1
+- Updated dependecy version to 8.0.x compatible versions
+- Added LibTourist library to hande map functions with the new MAP API
+
+Version 7.0.3_46
+- TOC interface version updated for game version 7.0.x
+
 Version 5.2.0_36
  - FIX: Fix behavior with characters that have pre-ordered Warlords of Draenor
  - NOTE: The version is still 5.2.0, but AFAIK this addon works fine with 5.4. I just haven't been able to test everything yet.
